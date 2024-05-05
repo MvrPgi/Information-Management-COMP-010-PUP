@@ -7,4 +7,4 @@ The project provides practical examples and code snippets to help understand the
 
 Please refer to the code files and instructions provided for a detailed walkthrough of the project.
 
-[titles]: # (https://www.youtube.com/watch?v=x7SwgcpACng&list=PLB5jA40tNf3tRMbTpBA0N7lfDZNLZAa9G)
+[titles]:(https://www.youtube.com/watch?v=x7SwgcpACng&list=PLB5jA40tNf3tRMbTpBA0N7lfDZNLZAa9G)
