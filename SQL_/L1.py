@@ -7,8 +7,10 @@ mydb = mysql.connector.connect(
 )
 
 
+
 mycursor = mydb.cursor() # Create a cursor object using the cursor() method
 
+# mycursor.execute("CREATE DATABASE mydatabase") # Create a database named "mydatabase" 
 sql = "INSERT INTO customers (name, address) VALUES (%s, %s)"   # Insert multiple rows into the customers table, with one SQL statement
 customers = [("John", "Highway 21"),
              ("Peter", "Lowstreet 4"),
