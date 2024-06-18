@@ -1,0 +1,17 @@
+EmpNo,TeacherName,Salary,Level,College,Estatus,hiredate,Sex
+1,Akiko Thompson,40000,Inst 1,CCIS,Regular,2010-01-16,F
+2,Miki Mami,50000,Inst 2,CAFA,Regular,2019-01-17,F
+3,Chigu Suzuki,80000,AsstProf 1,CCIS,Regular,2020-01-18,F
+4,Hanae Kobayashi,100000,AsocProf1,CENG,Part-Timer,2021-04-19,F
+5,Atsuko Celdran,60000,Inst 3,CENG,Temporary,2021-05-20,M
+6,Marquiz de Lafayette,120000,AsstProf 2,CCOM,Part-Timer,2021-03-21,M
+7,Reiko Carpenter,110000,AsocProf1,CCOM,Regular,2018-01-22,F
+8,Hercules Mulligan,110000,AsocProf1,CENG,Regular,2018-05-23,F
+9,Eliza Schuyler,100000,AsocProf1,CAFA,Regular,2017-02-24,M
+10,Mischka Laserna,80000,AsstProf 1,CENG,Regular,2018-01-25,F
+11,Alex Hamilton,80000,AsstProf 1,CENG,Regular,2018-01-26,F
+12,Angelica Schuyler,140000,Prof 1,CCIS,Temporary,2019-01-27,F
+13,Aaron Burr,40000,Inst 1,CAFA,Temporary,2021-04-28,M
+14,John Laurens,40000,Inst 1,CAFA,Part-Timer,2021-06-29,M
+15,Jack Japson,140000,Prof 1,CCIS,Part-Timer,2014-01-30,M
+16,Peggy Schuyler,80000,AsstProf 1,CCIS,Part-Timer,2015-01-31,M
