@@ -1,0 +1,12 @@
+StudID,FirstName,LastName,MidInit,Program,Status,ContactNum,Address,DateAdmitted,GWA,TuitionBalance
+2016-123,Kenra,Lee,A,BSCS,IR,0921-9999,"#14 Flower St., Sampaloc Manila",2016-6-1,1.25,300
+2017-321,Sophia ,Dy,G,BSCS,IR,0933-1111,Blk1 Lot 4 Ingels Ave. Pasig City,2017-6-1,3,20
+2018-222,    James,Cuevas,H,BSIT,R,0917-1234,"45 Hiligaynon St., Quezon City",2018-6-1,2.75,5
+2019-223,Jett,Li,T,BSIT,R,0918-4321,"#66  Wakas St, Q.C.",2019-6-1,1.25,0
+2019-123,Pauline ,    Go,Y,BSCE,R,0999-9999,89 Silver Ave. Manila,2019-6-1,1,10
+2018-122,Thea,Reyes,B,BSIT,R,0939-9090,"78 Sure St. , Tondo, Manila",2018-6-1,1.5,0
+2019-224,Eunise,Sy,D,BSCS,R,0977-1122,"111 Anonas St, Sta. Mesa, Manila",2019-6-1,1.75,50
+2017-999,  Nats,Diaz,C,BSCE,IR,0933-3434,"90 Taal St, La Loma, Q.C.",2017-6-1,2,10
+2018-555,Janice,Co,V,BSME,R,0915-5555,"Blk 53 Lot 35 Greenbreeze St, Q.C.",2018-6-1,2,10
+2016-298,Genie,Lopez,R,BSEE,IR,0919-7777,"#123 Anywhere Ave., Pasig",2016-6-1,1.25,0
+2021-300,Lydia,Vega ,R,BSCS,R,0919-7897,"#56 Honesty St., Pasay",2021-6-1,1.25,20
